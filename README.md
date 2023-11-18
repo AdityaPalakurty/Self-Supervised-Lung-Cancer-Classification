@@ -32,6 +32,20 @@ This project aims to classify lung cancer cases into three categories: Bengin, M
 - Scikit-learn
 - Imbalanced-learn
 
+
+## Installation
+
+**Clone the Repository:**
+   ```bash
+   git clone https://github.com/Mourya-wizard/Self-Supervised-Lung-Cancer-Classification.git
+   cd Self-Supervised-Lung-Cancer-Classification
+```
+To run this project, you need to install the required dependencies. You can use the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 
 1. **Dataset:**
